@@ -1,5 +1,5 @@
 {
-  "name": "micro-servico-pessoas",
+  "name": "desafio-info-sistemas",
   "version": "1.0.0",
   "description": "Microsserviço de Pessoas",
   "main": "index.js",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clodomirLima/desafio-first"
+    "url": "https://github.com/clodomirLima/desafio-info-sistemas"
   },
-  "author": "Jheimis",
+  "author": "Clodomir REis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clodomirLima/desafio-first/issues"
+    "url": "https://github.com/clodomirLima/desafio-info-sistemas/issues"
   },
-  "homepage": "https://github.com/clodomirLima/desafio-first#readme",
+  "homepage": "https://github.com/clodomirLima/desafio-info-sistemas#readme",
   "dependencies": {
     "chai": "^4.3.10",
     "dotenv": "^16.0.3",
     "express": "^4.17.2",
     "jaeger-tracer-decorator": "^3.0.2",
-    "jest": "^29.3.1",
+    "jest": "^29.7.0",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.15",
