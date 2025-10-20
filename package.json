@@ -1,0 +1,32 @@
+{
+  "name": "micro-servico-pessoas",
+  "version": "1.0.0",
+  "description": "Microsserviço de Pessoas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js",
+    "test": "jest --logHeapUsage --runInBand --detectOpenHandles --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clodomirLima/desafio-first"
+  },
+  "author": "Jheimis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clodomirLima/desafio-first/issues"
+  },
+  "homepage": "https://github.com/clodomirLima/desafio-first#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.2",
+    "jaeger-tracer-decorator": "^3.0.2",
+    "jest": "^29.3.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.21.3",
+    "sino": "^0.0.3"
+  }
+}
